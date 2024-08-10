@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "M63FD333T3.com.peerpressurmvp.ios.dev",
+        "paths": [
+          "/link-tracking"
+        ]
+      },
+      {
+        "appID": "M63FD333T3.com.peerpressurmvp.ios",
+        "paths": [
+          "/link-tracking"
+        ]
+      }
+    ]
+  }
+}
