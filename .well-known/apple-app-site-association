@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "A27R9B4N48.com.peerpressurmvp.ios.dev",
+        "paths": [
+          "/link-tracking"
+        ]
+      },
+      {
+        "appID": "A27R9B4N48.com.peerpressurmvp.ios",
+        "paths": [
+          "/link-tracking"
+        ]
+      }
+    ]
+  }
+}
